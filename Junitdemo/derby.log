@@ -1,0 +1,178 @@
+----------------------------------------------------------------
+Tue Jun 06 10:25:21 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0188-9119-1825-00000264dc68 
+on database directory memory:C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo\27137b18-c4a9-4ed2-9e07-2cbdea24eb9e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/sanik/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.7+8-LTS-224
+user.dir=C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 06 10:34:19 EDT 2023:
+Shutting down instance a816c00e-0188-9119-1825-00000264dc68 on database directory memory:C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo\27137b18-c4a9-4ed2-9e07-2cbdea24eb9e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Tue Jun 06 10:34:20 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance 45b300a8-0188-9119-1825-00000264dc68 
+on database directory memory:C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo\fbac23e2-28bb-4dc8-a3c5-53a04b443679 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/sanik/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.7+8-LTS-224
+user.dir=C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 06 10:34:22 EDT 2023:
+Shutting down instance 45b300a8-0188-9119-1825-00000264dc68 on database directory memory:C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo\fbac23e2-28bb-4dc8-a3c5-53a04b443679 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Tue Jun 06 10:34:23 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance ba784142-0188-9119-1825-00000264dc68 
+on database directory memory:C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo\88008094-00be-42f7-98e7-67b14f1e07da with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/sanik/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.7+8-LTS-224
+user.dir=C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 06 10:35:10 EDT 2023:
+Shutting down instance ba784142-0188-9119-1825-00000264dc68 on database directory memory:C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo\88008094-00be-42f7-98e7-67b14f1e07da with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Tue Jun 06 10:35:11 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance 866681dc-0188-9119-1825-00000264dc68 
+on database directory memory:C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo\c8eb5804-ab89-46a6-bf98-5ddf3511fcee with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/sanik/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.7+8-LTS-224
+user.dir=C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 06 10:35:13 EDT 2023:
+Shutting down instance 866681dc-0188-9119-1825-00000264dc68 on database directory memory:C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo\c8eb5804-ab89-46a6-bf98-5ddf3511fcee with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Tue Jun 06 10:35:13 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance 297dc276-0188-9119-1825-00000264dc68 
+on database directory memory:C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo\19f56b11-89d2-4bf5-be5d-2b4309cbf283 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/sanik/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.7+8-LTS-224
+user.dir=C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 06 10:35:21 EDT 2023:
+Shutting down instance 297dc276-0188-9119-1825-00000264dc68 on database directory memory:C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo\19f56b11-89d2-4bf5-be5d-2b4309cbf283 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Tue Jun 06 10:35:22 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance 23be0310-0188-9119-1825-00000264dc68 
+on database directory memory:C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo\fe6ebc76-8b3c-46f9-898c-1a5f7b9450ad with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/sanik/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.7+8-LTS-224
+user.dir=C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 06 10:46:08 EDT 2023:
+Shutting down instance 23be0310-0188-9119-1825-00000264dc68 on database directory memory:C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo\fe6ebc76-8b3c-46f9-898c-1a5f7b9450ad with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Tue Jun 06 10:51:12 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance f52743aa-0188-9119-1825-00000264dc68 
+on database directory C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo\mydb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/sanik/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.7+8-LTS-224
+user.dir=C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 06 10:51:12 EDT 2023:
+Shutting down instance f52743aa-0188-9119-1825-00000264dc68 on database directory C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo\mydb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Tue Jun 06 10:51:12 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance 1db98444-0188-9119-1825-00000264dc68 
+on database directory C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo\mydb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/sanik/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.7+8-LTS-224
+user.dir=C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+Tue Jun 06 10:51:12 EDT 2023 Thread[Thread-112,5,main] Cleanup action starting
+ERROR XBM0I: Directory mydb cannot be removed.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Cleanup action completed
+Tue Jun 06 10:51:12 EDT 2023 Thread[Thread-112,5,main] Cleanup action starting
+ERROR XBM0I: Directory mydb cannot be removed.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Cleanup action completed
+----------------------------------------------------------------
+Tue Jun 06 10:52:25 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance 86ca8445-0188-9119-1825-00000264dc68 
+on database directory memory:C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo\d8ce2b44-8319-488d-93d8-5a2d52092443 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/sanik/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.7+8-LTS-224
+user.dir=C:\Spring\SpringBoot-JUnitDemo\Junitdemo\Junitdemo
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
